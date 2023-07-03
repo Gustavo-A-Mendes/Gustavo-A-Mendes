@@ -21,8 +21,9 @@
           
           
 </div><br>
-
+<!--
 ![Snake animation](https://github.com/gustavo-a-mendes/gustavo-a-mendes/blob/output/github-contribution-grid-snake.svg)
+-->
 <!--
 **Gustavo-A-Mendes/Gustavo-A-Mendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
